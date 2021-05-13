@@ -97,7 +97,7 @@ abbr[data-original-title] {
   cursor: help;
   border-bottom: 0;
   -webkit-text-decoration-skip-ink: none;
-          text-decoration-skip-ink: none;
+  text-decoration-skip-ink: none;
 }
 
 address {
@@ -6108,7 +6108,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #495057 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9807,7 +9807,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #343a40 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
